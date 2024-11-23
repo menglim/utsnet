@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProductPriceListingGenerator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EXCEL_COLUMN_PRODUCT_NO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B</Value>
+    </Setting>
+    <Setting Name="EXCEL_COLUMN_PRODUCT_NAME_EN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D</Value>
+    </Setting>
+    <Setting Name="EXCEL_COLUMN_PRODUCT_NAME_KH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C</Value>
+    </Setting>
+    <Setting Name="EXCEL_COLUMN_PRODUCT_UNIT_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G</Value>
+    </Setting>
+    <Setting Name="EXCEL_COLUMN_PRODUCT_SALE_PRICE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">H</Value>
+    </Setting>
+    <Setting Name="EXCEL_START" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="EXCEL_END" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="AUTO_PREVIEW" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EXCEL_COLUMN_CATEGORY_EN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E</Value>
+    </Setting>
+    <Setting Name="EXCEL_COLUMN_CATEGORY_KH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F</Value>
+    </Setting>
+    <Setting Name="CURRENCY_SYMBOL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">រ</Value>
+    </Setting>
+    <Setting Name="IMAGE_EXTENSION" Type="System.String" Scope="User">
+      <Value Profile="(Default)">png</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
